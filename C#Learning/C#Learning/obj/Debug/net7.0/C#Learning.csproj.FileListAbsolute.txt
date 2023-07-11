@@ -1,0 +1,15 @@
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.exe
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.deps.json
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.runtimeconfig.json
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.dll
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\bin\Debug\net7.0\C#Learning.pdb
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.csproj.AssemblyReference.cache
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.AssemblyInfoInputs.cache
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.AssemblyInfo.cs
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.dll
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\refint\C#Learning.dll
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.pdb
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\C#Learning.genruntimeconfig.cache
+C:\Users\Daniel Ortega\source\repos\C#Learning\C#Learning\obj\Debug\net7.0\ref\C#Learning.dll

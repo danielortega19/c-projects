@@ -1,0 +1,15 @@
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\bin\Debug\net6.0\AbstracClasses.exe
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\bin\Debug\net6.0\AbstracClasses.deps.json
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\bin\Debug\net6.0\AbstracClasses.runtimeconfig.json
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\bin\Debug\net6.0\AbstracClasses.dll
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\bin\Debug\net6.0\AbstracClasses.pdb
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.csproj.AssemblyReference.cache
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.AssemblyInfoInputs.cache
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.AssemblyInfo.cs
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.dll
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\refint\AbstracClasses.dll
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.pdb
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\AbstracClasses.genruntimeconfig.cache
+C:\Users\Daniel Ortega\source\repos\AbstracClasses\AbstracClasses\obj\Debug\net6.0\ref\AbstracClasses.dll
